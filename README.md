@@ -4,7 +4,10 @@
   <tr>
     <td>
 
-👋 Hello World! I'm Indhumathi  
+
+### 👋 Hello, I'm Indhumathi  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer;Frontend+Developer;Web+Developer;Java+Developer;Full+Stack+Developer&center=false&width=500&height=40&duration=2000&pause=1000&color=F700FF&vCenter=true&size=22)
+ 
 
 💻 Passionate Java Full Stack Developer | 🚀 Creative Problem Solver | 🌱 Lifelong Learner  
 
